@@ -6,6 +6,7 @@ Visual Studio Comedy is a comedic writing environment that repurposes the Code&n
 - Internal rating tools to track your best content
 - AI‑powered suggestions in the right sidebar for punchline revisions or new ideas
 - Categorization, filtering, and search to keep your notebook organized
+- Code is rendered in playful Comic Sans for maximum comedic effect
 
 ## The Repository
 
